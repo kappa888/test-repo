@@ -2,4 +2,5 @@ print(hello1);
 print(hello1123);
 print(hello);
 print(new hello);
+print(freedom);
 
